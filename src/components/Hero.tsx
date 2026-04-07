@@ -247,7 +247,7 @@ export default function Hero() {
 
                {/* Image container */}
                <div style={{
-                 position: "relative", zIndex: 1, width: "100%", aspectRatio: "0.85",
+                 position: "relative", zIndex: 1, width: "100%", height: "400px",
                  borderRadius: "40% 60% 70% 30% / 40% 50% 60% 50%", // Organic blob shape
                  animation: "morph 8s ease-in-out infinite reverse",
                  overflow: "hidden",
@@ -300,6 +300,7 @@ export default function Hero() {
             flex-direction: column;
             align-items: center;
             text-align: center !important;
+            grid-row: 2;
           }
           .hero-grid > div:first-child blockquote {
             text-align: center;
@@ -309,9 +310,10 @@ export default function Hero() {
             padding-bottom: 20px;
           }
           .hero-image-wrapper {
-            order: -1;
+            grid-row: 1;
             margin-bottom: 20px;
-            max-width: 350px;
+            width: 100%;
+            max-width: 320px;
             margin: 0 auto;
           }
         }
