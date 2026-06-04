@@ -4,11 +4,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 
 const roles = [
-  "AI Trainer & Consultant",
-  "ESG & Sustainability Leader",
-  "Chartered Accountant",
-  "Corporate Trainer",
-  "CPA(US) Educator",
+  "AI Dhurandhar",
 ];
 
 function TypingRoles() {
