@@ -68,9 +68,9 @@ export default function About() {
 
               <div style={{ textAlign: "center", marginBottom: "28px" }}>
                 <h3 style={{ color: "var(--text-primary)", marginBottom: "6px" }}>CA Shailesh S Wadhawaniya</h3>
-                <p style={{ color: "var(--gold)", fontSize: "0.85rem", fontWeight: 600, letterSpacing: "0.06em" }}>
-                  AI Consultant · ESG Leader · FCA
-                </p>
+<p style={{ color: "var(--gold)", fontSize: "0.85rem", fontWeight: 600, letterSpacing: "0.06em" }}>
+                   AI DHURANDHAR · CA
+                 </p>
                 <div className="gold-divider" style={{ margin: "14px auto" }} />
                 <em style={{ color: "var(--text-secondary)", fontSize: "0.9rem", fontFamily: "'Playfair Display', serif" }}>
                   &ldquo;Resilient. Resourceful. Dependable.&rdquo;
@@ -95,7 +95,7 @@ export default function About() {
           <div>
             <motion.div custom={1} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}>
               <span className="section-badge">✦ About Me</span>
-              <h2 className="section-title">Bridging Finance<br />With Next-Gen Intelligence</h2>
+              <h2 className="section-title">AI Expert With Next-Gen Intelligence</h2>
               <div className="gold-divider" />
             </motion.div>
 
@@ -104,21 +104,21 @@ export default function About() {
               I empower modern finance professionals by bridging the gap between <strong style={{ color: "var(--text-primary)" }}>Generative AI, Data Analytics, and Industry 4.0</strong> technologies. With over <strong style={{ color: "var(--gold)" }}>10,000+ professionals trained</strong> in AI concepts, I help enterprises automate, analyze, and scale intelligently.
             </motion.p>
 
-            <motion.p custom={3} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
-              style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
-              As a global <strong style={{ color: "var(--text-primary)" }}>ESG & Sustainability Leader</strong>, I run a niche practice specializing in BRSR reporting, Social Audits, and international frameworks like GRI, SASB, and IIRC. I guide organizations in navigating their environmental responsibilities and achieving Net Zero milestones.
+<motion.p custom={3} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
+               style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
+              As an ESG & Sustainability Leader, I guide organizations on environmental responsibilities.
             </motion.p>
 
-            <motion.p custom={4} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
-              style={{ color: "var(--text-secondary)", fontSize: "1.02rem" }}>
-              Beyond AI and ESG, I am a recognized <strong style={{ color: "var(--text-primary)" }}>National Level Faculty for ICAI</strong>, a seasoned Chartered Accountant, and Founder of <strong style={{ color: "var(--gold)" }}>StrideX</strong> — coaching aspiring minds globally in US CPA and taxation.
+<motion.p custom={4} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
+               style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
+              I am a National Level Faculty for ICAI, training 10,000+ professionals in AI and taxation, and Founder of StrideX.
             </motion.p>
 
             <motion.div custom={5} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
               style={{ display: "flex", flexWrap: "wrap", gap: "10px", marginTop: "28px" }}>
-              {["AI Finance Integrator", "ESG Strategist", "BRSR Specialist", "Social Auditor (ISAI)", "National ICAI Faculty"].map(t => (
-                <span key={t} className="tag">{t}</span>
-              ))}
+{["AI Dhurandhar", "AI Finance Integrator", "ESG Strategist", "BRSR Specialist", "Social Auditor (ISAI)", "National ICAI Faculty"].map(t => (
+                 <span key={t} className="tag">{t}</span>
+               ))}
             </motion.div>
           </div>
         </div>
