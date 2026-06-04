@@ -143,7 +143,7 @@ export default function Contact() {
         paddingTop: "32px", textAlign: "center",
       }}>
         <p style={{ color: "var(--text-muted)", fontSize: "0.85rem" }}>
-          © 2026 CA Shailesh S Wadhawaniya | Wadhawaniya &amp; Co. | Ahmedabad, India
+          © 2026 CA Shailesh S Wadhawaniya | Ahmedabad, India
         </p>
         <p style={{ color: "var(--text-muted)", fontSize: "0.75rem", marginTop: "6px" }}>
           Chartered Accountant · AI Trainer · ESG Consultant · CPA(US) Educator

@@ -2,23 +2,23 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "CA Shailesh S Wadhawaniya | Chartered Accountant & AI Consultant",
+  title: "CA Shailesh S Wadhawaniya | Chartered Accountant & AI Expert",
   description:
-    "National-Level ICAI Faculty, ESG & AI Consultant, Corporate Trainer, and Founder of Wadhawaniya & Co. — where finance meets the future.",
+    "National & International-Level Faculty, ESG & AI Consultant, AI Trainer",
   keywords: [
     "CA Shailesh Wadhawaniya",
-    "Chartered Accountant Ahmedabad",
+    "Chartered Accountant",
     "ESG Consultant",
-    "AI Trainer ICAI",
+    "AI Trainer",
     "BRSR Reporting",
     "StrideX CPA US",
-    "Industry 4.0 Finance",
+    "Industry 4.0 Leader",
   ],
   authors: [{ name: "CA Shailesh S Wadhawaniya" }],
   openGraph: {
-    title: "CA Shailesh S Wadhawaniya | Finance Meets the Future",
+    title: "CA Shailesh S Wadhawaniya | AI Expert",
     description:
-      "National-Level ICAI Faculty, ESG Consultant & AI Trainer bridging traditional finance with Industry 4.0.",
+      "National & International-Level Faculty, ESG & AI Consultant, AI Trainer",
     type: "website",
   },
 };
