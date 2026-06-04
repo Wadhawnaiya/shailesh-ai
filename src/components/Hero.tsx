@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 import Image from "next/image";
 
 const roles = [
-  "AI Dhurandhar",
+  "AI DHURANDHAR",
 ];
 
 function TypingRoles() {
