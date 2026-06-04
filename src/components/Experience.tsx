@@ -11,16 +11,15 @@ const experiences = [
     loc: "Pan-India",
     color: "#0096ff",
     points: [
-      "National Faculty for AICA (AI Committee) of ICAI; driving the 'Train the Trainers' initiative for upcoming AI educators.",
-      "Trained over 10,000 finance professionals and led extensive corporate training for giants like the Adani Group.",
-      "Spearheaded Generative AI and Data Analytics integration use cases published on the ICAI AI Hub.",
-      "National Faculty — DITS & WTO Committee of ICAI.",
+      "National Faculty for AI; driving the 'Train the Trainers' initiative for upcoming AI educators.",
+      "Trained over 10,000 Professionals, Business Leader and led extensive corporate training for giants like the Adani Group.",
+      "Spearheaded Generative AI and Data Analytics integration use cases published on Global Reputed journals & Sites.",
+      "National Faculty — AI in ICAI Committee, DITS & WTO Committee of ICAI, and many more Committees of ICAI",
     ],
   },
   {
     period: "Nov 2021 – Present",
-    role: "Founder & Principal ESG Consultant",
-    org: "Wadhawaniya & Co.",
+    role: "Principal AI & ESG Consultant",
     loc: "Ahmedabad, India",
     color: "#4caf82",
     points: [
@@ -32,7 +31,7 @@ const experiences = [
   },
   {
     period: "2022 – Present",
-    role: "Founder & Chief Educator",
+    role: "Chief Educator",
     org: "StrideX CPA(US)",
     loc: "Global",
     color: "#ffa726",
@@ -40,18 +39,6 @@ const experiences = [
       "Specialized coaching for US CPA subjects — REG (Regulation) and TCP (Tax Compliance & Planning).",
       "Comprehensive coaching for all three parts of the Enrolled Agent (EA) examination.",
       "Mentoring resilient aspiring professionals entering the complex world of global taxation.",
-    ],
-  },
-  {
-    period: "Jan 2019 – Nov 2021",
-    role: "Senior Audit cum Tax Manager",
-    org: "Kirpekar & Co.",
-    loc: "Ahmedabad, India",
-    color: "#d4af37",
-    points: [
-      "Managed Statutory Audit for large companies with group turnovers exceeding ₹12,000 Cr.",
-      "Applied advanced data analytics tools for trend identification and anomaly detection.",
-      "Led multifaceted Internal Audits across Inventory, Assets, Purchase, Sales, and ITC Management.",
     ],
   },
 ];

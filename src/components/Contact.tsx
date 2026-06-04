@@ -11,9 +11,10 @@ const contactItems = [
 ];
 
 const services = [
+  { title: "AI Training", icon: "🤖" },
+  { title: "AI Consulting", icon: "📋" },
+  { title: "Corporate & Managment Training", icon: "🏢" },
   { title: "ESG & BRSR Advisory", icon: "🌿" },
-  { title: "AI Training for CAs", icon: "🤖" },
-  { title: "Corporate Training", icon: "🏢" },
   { title: "CPA / EA Coaching", icon: "🎓" },
   { title: "Tax & Audit Services", icon: "📋" },
   { title: "Social Audit", icon: "🔍" },

@@ -101,22 +101,22 @@ export default function About() {
 
             <motion.p custom={2} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
               style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
-              I empower modern finance professionals by bridging the gap between <strong style={{ color: "var(--text-primary)" }}>Generative AI, Data Analytics, and Industry 4.0</strong> technologies. With over <strong style={{ color: "var(--gold)" }}>10,000+ professionals trained</strong> in AI concepts, I help enterprises automate, analyze, and scale intelligently.
+              I empower modern finance professionals by bridging the gap between <strong style={{ color: "var(--text-primary)" }}>Generative AI, Data Analytics, and Industry 4.0</strong> technologies. With over <strong style={{ color: "var(--gold)" }}>10,000+ Professionals & Business Leader trained</strong> in AI, I help enterprises automate the operations and scale intelligently.
             </motion.p>
 
 <motion.p custom={3} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
                style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
-              As an ESG & Sustainability Leader, I guide organizations on environmental responsibilities.
+              As an ESG & Sustainability Leader, I guide organizations on environmental responsibilities globally.
             </motion.p>
 
 <motion.p custom={4} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
                style={{ color: "var(--text-secondary)", marginBottom: "20px", fontSize: "1.02rem" }}>
-              I am a National Level Faculty for ICAI, training 10,000+ professionals in AI and taxation, and Founder of StrideX.
+              I am a National Level Faculty for ICAI, training 10,000+ Professionals & Business Leaders in AI.
             </motion.p>
 
             <motion.div custom={5} variants={fadeUp} initial="hidden" animate={inView ? "show" : "hidden"}
               style={{ display: "flex", flexWrap: "wrap", gap: "10px", marginTop: "28px" }}>
-{["AI Dhurandhar", "AI Finance Integrator", "ESG Strategist", "BRSR Specialist", "Social Auditor (ISAI)", "National ICAI Faculty"].map(t => (
+{["AI Dhurandhar", "AI Expert", "ESG Strategist", "National & International Level Faculty"].map(t => (
                  <span key={t} className="tag">{t}</span>
                ))}
             </motion.div>

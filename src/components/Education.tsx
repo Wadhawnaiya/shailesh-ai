@@ -13,14 +13,6 @@ const education = [
     color: "#d4af37",
   },
   {
-    degree: "MBA",
-    field: "Management Studies",
-    institution: "—",
-    year: "–",
-    icon: "🏛",
-    color: "#7c5cbf",
-  },
-  {
     degree: "M.Com",
     field: "Commerce",
     institution: "Gujarat University",
